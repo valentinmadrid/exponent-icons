@@ -1,0 +1,6 @@
+{
+  "name": "marginfi PYUSD",
+  "symbol": "mPYUSD",
+  "description": "A token representing a share of PYUSD deposits in the marginfi Global Pool",
+  "image": "https://raw.githubusercontent.com/valentinmadrid/exponent-icons/refs/heads/main/lyts/mPYUSD%20-%20Global%20Pool.svg"
+}

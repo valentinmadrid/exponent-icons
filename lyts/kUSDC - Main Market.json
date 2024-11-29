@@ -1,0 +1,6 @@
+{
+  "name": "Kamino USDC",
+  "symbol": "kUSDC",
+  "description": "A token representing a share of USDC deposits in the Kamino Main Market",
+  "image": "https://raw.githubusercontent.com/valentinmadrid/exponent-icons/refs/heads/main/lyts/kUSDC%20-%20Main%20Market.svg"
+}
